@@ -4,7 +4,6 @@ int main()
     int a , b ,c ;
     a = 1;
     scanf("%d",&a);
-
     b = 2;
     scanf("%d",&b);
     c = 3 ;

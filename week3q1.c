@@ -29,6 +29,7 @@ Sample Output
 */
 #include<stdio.h>
 int find_odd(int k)
+
 {
     int sequence, count=0, rem;
         while(sequence != -1){
